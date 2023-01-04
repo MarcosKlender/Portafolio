@@ -365,6 +365,16 @@ section {
   margin-bottom: 0;
 }
 
+#resume-btn {
+  background-color: #173b6c;
+  border-color: #173b6c;
+}
+
+#resume-btn:hover {
+  background-color: #149ddd;
+  border-color: #149ddd;
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
